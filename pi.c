@@ -1,4 +1,5 @@
 #include <stdio.h>
+/*float的不准确性*/
 int main(int argc, const char *argv[])
 {
     double a=3.14;
