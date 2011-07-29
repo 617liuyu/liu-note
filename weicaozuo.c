@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main(void)
+
 {
     unsigned int a= 0x556677aa;
     unsigned int mask = (1<<31);
