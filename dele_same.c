@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 #define	M 20
+
 void init_array(int *p, int n)
 {
 	int i= 0;
